@@ -337,7 +337,7 @@ nav span svg{
 }
 @media only screen and (max-width:621px){
     .header-text{
-        margin-top: 150%;
+        margin-top: 180%;
         font-size: 16px;
     }
     .header-text h1{
